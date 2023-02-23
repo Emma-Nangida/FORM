@@ -1,0 +1,20 @@
+.container {
+    flex-direction: row;
+    align-items: baseline;
+    padding-left: 200px;
+    
+
+}.form{
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    margin: 50%;
+    background-color: blueviolet;
+    float: left;
+}.tables{
+    margin: 50%;
+    padding: 200px;
+    background-color: rgb(56, 155, 11);
+
+}
+
